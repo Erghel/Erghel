@@ -18,9 +18,9 @@ Russia will be fine.
     Able to create YoptaScript and LOLCODE code
     
 ## Projects:
-   [KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2) - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
+   **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
    
-   [TickTackToe](https://github.com/Erghel/Tick-Tack-Toe) - Простейшие крестики-нолики на JavaScript, также в дальнейшем будет улучшаться
+   **[TickTackToe](https://github.com/Erghel/Tick-Tack-Toe)** - Простейшие крестики-нолики на JavaScript, также в дальнейшем будет улучшаться
     
  ## Languages: 
     English (B2), Russian (native)
