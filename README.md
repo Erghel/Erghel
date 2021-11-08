@@ -9,13 +9,13 @@ Russia will be fine.
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
 
 ## My skills and experience
-    HTML5, CSS3, JavaScript for frontend
-    Learning JavaScript and PHP now
-    Able to use Kali/Mint Linux systems
-    Aware of how HTTP/HTTPS requests and XSS/SQL injection work
-    The main interest is the study of Cyber Security/Internet censorship
-    Able to create the simplest Arduino constructions and code
-    Able to create YoptaScript and LOLCODE code
+    **HTML, CSS, JavaScript** for frontend
+    Learning **JavaScript** and **PHP** now
+    Able to use **Kali/Mint Linux** systems
+    Aware of how **HTTP/HTTPS** requests and **XSS/SQL injection** work
+    The main interest is the study of **Cyber Security/Internet censorship**
+    Able to create the simplest **Arduino constructions** and **DuckyScript** code
+    Able to create **YoptaScript** and **LOLCODE** code
     
 ## Projects:
    **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
