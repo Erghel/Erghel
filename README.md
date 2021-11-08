@@ -8,8 +8,8 @@ Russia will be fine.
 ## Interests: 
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
 
-## My skills and experience
-    **HTML, CSS, JavaScript** for frontend
+## My skills and experience:
+  **HTML, CSS, JavaScript** for frontend
     Learning **JavaScript** and **PHP** now
     Able to use **Kali/Mint Linux** systems
     Aware of how **HTTP/HTTPS** requests and **XSS/SQL injection** work
@@ -23,7 +23,7 @@ Russia will be fine.
    **[TickTackToe](https://github.com/Erghel/Tick-Tack-Toe)** - Простейшие крестики-нолики на JavaScript, также в дальнейшем будет улучшаться
     
  ## Languages: 
-    English (B2), Russian (native)
+   **English (B2), Russian (native)
    
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Erghel&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
