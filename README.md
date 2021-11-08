@@ -10,19 +10,20 @@ Russia will be fine.
 
 ## My skills and experience:
 
-  **HTML, CSS, JavaScript** for frontend
+
+ **HTML, CSS, JavaScript** for frontend
   
-    Learning **JavaScript** and **PHP** now
+   Learning **JavaScript** and **PHP** now
     
-    Able to use **Kali/Mint Linux** systems
+   Able to use **Kali/Mint Linux** systems
     
-    Aware of how **HTTP/HTTPS** requests and **XSS/SQL injection** work
+   Aware of how **HTTP/HTTPS** requests and **XSS/SQL injection** work
     
-    The main interest is the study of **Cyber Security/Internet censorship**
+   The main interest is the study of **Cyber Security/Internet censorship**
     
-    Able to create the simplest **Arduino constructions** and **DuckyScript** code
+   Able to create the simplest **Arduino constructions** and **DuckyScript** code
     
-    Able to create **YoptaScript** and **LOLCODE** code
+   Able to create **YoptaScript** and **LOLCODE** code
  
     
 ## Projects:
