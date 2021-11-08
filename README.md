@@ -9,7 +9,7 @@ Russia will be fine.
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
 
 ## My skills and experience:
-```
+
   **HTML, CSS, JavaScript** for frontend
   
     Learning **JavaScript** and **PHP** now
@@ -23,7 +23,7 @@ Russia will be fine.
     Able to create the simplest **Arduino constructions** and **DuckyScript** code
     
     Able to create **YoptaScript** and **LOLCODE** code
- ```   
+ 
     
 ## Projects:
    **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
