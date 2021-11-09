@@ -23,7 +23,7 @@ Russia will be fine.
    **[TickTackToe](https://github.com/Erghel/Tick-Tack-Toe)** - Простейшие крестики-нолики на JavaScript, также в дальнейшем будет улучшаться
     
  ## Languages: 
-   **English (B2), Russian (native)**
+   English (B2), Russian (native)
    
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Erghel&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
