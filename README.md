@@ -21,6 +21,8 @@ Russia will be fine.
    **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
    
    **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования
+   
+   **[OnCode.JavaScript](https://github.com/dimkarpenko/OnCode)** - веду проекты на JavaScript, где стараюсь делать/повторять разные игры или анимации для сайтов на JS
     
  ## Languages: 
     English (B2), Russian (native)
