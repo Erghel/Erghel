@@ -15,7 +15,7 @@ Russia will be fine.
     Aware of how HTTP/HTTPS requests and XSS/SQL injection work    
     The main interest is the study of Cyber Security/Internet censorship    
     Able to create the simplest Arduino constructions and DuckyScript code  
-    Able to create DuckyScript and LOLCODE code
+    Able to create YoptaScript and LOLCODE code
     
 ## Projects:
    **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
