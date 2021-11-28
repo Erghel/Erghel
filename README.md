@@ -23,6 +23,7 @@ Russia will be fine.
    **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования
    
    **[OnCode.JavaScript](https://github.com/dimkarpenko/OnCode)** - веду проекты на JavaScript, где стараюсь делать/повторять разные игры или анимации для сайтов на JS
+   **[DreamDev.Team](https://github.com/dreamDevTeamx)** - командный pet-project с ментором, где нам помогают, обучают и доводят до первого оффера  
     
  ## Languages: 
     English (B2), Russian (native)
