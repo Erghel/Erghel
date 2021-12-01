@@ -1,7 +1,7 @@
 # Hi there 👋
 My nickname is Erghel and I want to become a Pentester. In spare time I enjoy watching and reading pentest guides. 
 
-My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our  inequitable goverment. I sometimes post things on my Telegram channel. Also I'm currently working in Roskomsvoboda (Intern frontend). 
+My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our  inequitable goverment. I sometimes post things on my Telegram channel. Also I'm currently working in Roskomsvoboda (Intern frontend). I also maintain my JS repository in On Code-Chanel and am a member of the pet-project team (DreamDev.Team).
 
 Russia will be fine.
 
@@ -22,9 +22,7 @@ Russia will be fine.
    
    **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования
    
-   **[OnCode.JavaScript](https://github.com/dimkarpenko/OnCode)** - веду проекты на JavaScript, где стараюсь делать/повторять разные игры или анимации для сайтов на JS
-   
-   **[DreamDev.Team](https://github.com/dreamDevTeamx)** - командный pet-project с ментором, где нам помогают, обучают и доводят до первого оффера  
+**[CSV_Reader](https://github.com/Erghel/CSV_Reader_HTML)** - (Beta) Проект для выведения таблиц на страницу в браузере, в будущем будет выводить таблицу с бека. 
     
  ## Languages: 
     English (B2), Russian (native)
