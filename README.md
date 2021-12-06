@@ -9,8 +9,8 @@ Russia will be fine.
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
 
 ## My skills and experience:
-    HTML, CSS, JavaScript for frontend
-    Learning JavaScript and PHP now  
+    HTML, CSS, JavaScript for simple frontend
+    Learning JavaScript and Ruby now  
     Able to use Kali/Mint Linux systems
     Aware of how HTTP/HTTPS requests and XSS/SQL injection work    
     The main interest is the study of Cyber Security/Internet censorship    
