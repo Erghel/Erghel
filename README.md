@@ -8,8 +8,8 @@ Russia will be fine.
 ## My skills and experience:
 <table style="border-size:0px">
   <tr>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML5</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS3</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-46-1175101.png"> Ruby</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-3-1175190.png"> CoffeeScript (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
