@@ -17,7 +17,8 @@ Russia will be fine.
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cyber-security-18-771321.png"> CyberSecurity</td>
   </tr>
 </table>
-  **Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
+
+**Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
 
 ## Interests: 
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
