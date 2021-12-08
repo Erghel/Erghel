@@ -11,13 +11,13 @@ Russia will be fine.
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-46-1175101.png"> Ruby</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-3-1175190.png"> CoffeeScript</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-3-1175190.png"> CoffeeScript (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"> Python (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cyber-security-18-771321.png"> CyberSecurity</td>
   </tr>
 </table>
-  Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code  
+  **Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
 
 ## Interests: 
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
