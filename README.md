@@ -4,31 +4,23 @@ My nickname is Erghel and I want to become a Pentester. In spare time I enjoy wa
 My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our  inequitable goverment. I sometimes post things on my Telegram channel. Also I'm currently working in Roskomsvoboda (Intern frontend). I also maintain my JS repository in On Code-Chanel and am a member of the pet-project team (DreamDev.Team).
 
 Russia will be fine.
-# Technologies and tools:
+
+## My skills and experience:
 <table style="border-size:0px">
   <tr>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-46-1175101.png"> Ruby</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-3-1175190.png"> CoffeeScript</td>
-    
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cyber-security-18-771321.png"> CyberSecurity (tools, pentest, etc)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"> Python (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cyber-security-18-771321.png"> CyberSecurity</td>
   </tr>
 </table>
+  Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code  
 
 ## Interests: 
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
-
-## My skills and experience:
-    HTML, CSS, JavaScript for simple frontend
-    Learning JavaScript and Ruby now  
-    Able to use Kali/Mint Linux systems
-    Aware of how HTTP/HTTPS requests and XSS/SQL injection work    
-    The main interest is the study of Cyber Security/Internet censorship    
-    Able to create the simplest Arduino constructions and DuckyScript code  
-    Able to create YoptaScript and LOLCODE code
     
 ## Projects:
    **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
