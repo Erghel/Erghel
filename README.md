@@ -24,10 +24,10 @@ Russia will be fine.
     Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
     
 ## Projects:
-   **[KDA Calculator Dota 2](https://github.com/Erghel/KDACalcForD2)** - Самый первый серьёзный проект. Используются для подсчета KDA в Dota 2, в дальнейшем будет улучшаться
+   **[PasswordGenerator](https://github.com/Erghel/PasswordGenerator)** - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), поэтому ознакомьтесь с описанием в репозитории.
    
-   **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования
-   
+   **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования.
+ 
 **[CSV_Reader](https://github.com/Erghel/CSV_Reader_HTML)** - (Beta) Проект для выведения таблиц на страницу в браузере, в будущем будет выводить таблицу с бека. 
     
  ## Languages: 
