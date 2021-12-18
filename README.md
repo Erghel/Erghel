@@ -1,7 +1,7 @@
 # Hi there 👋
-My nickname is Erghel and I want to become a Pentester. In spare time I enjoy watching and reading pentest guides. 
+My nickname is **Erghel** and I want to become a Pentester. In spare time I enjoy watching and reading pentest guides. 
 
-My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our  inequitable goverment. I sometimes post things on my Telegram channel. Also I'm currently working in Roskomsvoboda (Intern frontend). I also maintain my JS repository in On Code-Chanel and am a member of the pet-project team (DreamDev.Team).
+My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our inequitable goverment. I sometimes post things on my Telegram channel. Also **I'm currently working in Roskomsvoboda (Intern frontend)**. I also maintain my JS repository in **On Code-Chanel** and am a member of the pet-project team **DreamDev.Team**.
 
 Russia will be fine.
 
@@ -19,9 +19,6 @@ Russia will be fine.
 </table>
 
 **Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
-
-## Interests: 
-    Tea / Octopuses / Lego / Internet Censorship and Cyber Security / Pentest / Esoteric programming languages
     
 ## Projects:
    **[PasswordGenerator](https://github.com/Erghel/PasswordGenerator)** - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), поэтому ознакомьтесь с описанием в репозитории.
