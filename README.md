@@ -8,13 +8,14 @@ Russia will be fine.
 ## My skills and experience:
 <table style="border-size:0px">
   <tr>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-1175208.png"> HTML5</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css-1175237.png"> CSS3</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-46-1175101.png"> Ruby</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-3-1175190.png"> CoffeeScript (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/js-3029998.png"> JavaScript (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png"> Python (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/cyber-security-18-771321.png"> CyberSecurity</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png"> HTML5</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png"> CSS3</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"> JavaScript (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png"> Ruby</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-2-1175056.png"> CoffeeScript (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png"> Python (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/hacker-15-448496.png"> CyberSecurity</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png"> Java (Started learn)</td>
   </tr>
 </table>
 
