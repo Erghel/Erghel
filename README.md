@@ -1,7 +1,7 @@
 # Hi there 👋
 My nickname is **Erghel** and I want to become a Pentester. In spare time I enjoy watching and reading pentest guides. 
 
-My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our inequitable goverment. I sometimes post things on my Telegram channel. Also **I did an internship in Roskomsvoboda (Intern frontend)**. I also maintain my JS repository in **On Code-Chanel** and am a member of the pet-project team **DreamDev.Team**.
+My dream is to work in the same company with Vladislav Zdolnikov and to create a project which will help Russian people to fight peacefully with our inequitable goverment. I sometimes post things on my Telegram channel. I also maintain my JS repository in **On Code-Chanel** and am a member of the pet-project team **DreamDev.Team**.
 
 Russia will be fine.
 
