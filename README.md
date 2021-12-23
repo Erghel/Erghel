@@ -12,7 +12,7 @@ Russia will be fine.
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png"> CSS3</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"> JavaScript (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png"> Ruby (not completely</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/coffeescript-2-1175056.png"> CoffeeScript (not completely)</td>
+    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png"> Vue (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png"> Python (not completely)</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/hacker-15-448496.png"> CyberSecurity</td>
     <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png"> Java (Started learn)</td>
