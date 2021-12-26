@@ -6,22 +6,24 @@ My dream is to work in the same company with Vladislav Zdolnikov and to create a
 Russia will be fine.
 
 ## My skills and experience:
-<table style="border-size:0px">
+<table>
   <tr>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png"></td>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png"></td>
+    <td> <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png">
+    <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/https-2097909-1762683.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/arduino-226072.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/rubber-duck-4128972-3426805.png">
+    </td>
     </tr>
  </table>
 
-**Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
-    
 ## Projects:
    **[PasswordGenerator](https://github.com/Erghel/PasswordGenerator)** - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), поэтому ознакомьтесь с описанием в репозитории.
    
