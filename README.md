@@ -6,16 +6,19 @@ My dream is to work in the same company with Vladislav Zdolnikov and to create a
 Russia will be fine.
 
 ## My skills and experience:
-    <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
+<table style="border-size:0px">
+  <tr>
+    <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png">
-    <img src"https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png">
+    </tr>
+ </table>
 
 **Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
     
