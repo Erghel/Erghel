@@ -8,7 +8,8 @@ Russia will be fine.
 ## My skills and experience:
 <table>
   <tr>
-    <td> <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
+    <td> <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png">
@@ -20,6 +21,7 @@ Russia will be fine.
     <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/https-2097909-1762683.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/arduino-226072.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/rubber-duck-4128972-3426805.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3628860-3030000.png">
     </td>
     </tr>
  </table>
