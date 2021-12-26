@@ -6,18 +6,16 @@ My dream is to work in the same company with Vladislav Zdolnikov and to create a
 Russia will be fine.
 
 ## My skills and experience:
-<table style="border-size:0px">
-  <tr>
     <img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png">
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png"> CSS3</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png"> JavaScript (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png"> Ruby (not completely</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png"> Vue (Started learn)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png"> Python (not completely)</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/hacker-15-448496.png"> CyberSecurity</td>
-    <td style="border: none;" width="90"><img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png"> Java (Started learn)</td>
-  </tr>
-</table>
+    <img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png">
+    <img src"https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png">
 
 **Also can use Linux (Ubuntu/Kali), aware of how HTTP/HTTPS requests and XSS/SQL injection work, able to create the simplest Arduino constructions and DuckyScript code**  
     
