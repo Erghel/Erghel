@@ -31,7 +31,9 @@ Russia will be fine.
    
    **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования.
  
-**[CSV_Reader](https://github.com/Erghel/CSV_Reader_HTML)** - (Beta) Проект для выведения таблиц на страницу в браузере, в будущем будет выводить таблицу с бека. 
+**[CSV_Reader](https://github.com/Erghel/CSV_Reader_HTML)** - (Beta) Проект для выведения таблиц на страницу в браузере, в будущем будет выводить таблицу с бека.
+
+**KnowledgeFor3veryone** and **Специя** - пока два закрытых проекта на стадии разработки, оба будут являться расширениями для браузера.
     
  ## Languages: 
     English (B2), Russian (native)
