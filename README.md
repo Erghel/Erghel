@@ -23,6 +23,7 @@ Russia will be fine.
     <img src="https://cdn.iconscout.com/icon/free/png-64/rubber-duck-4128972-3426805.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3628860-3030000.png">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LOLCode_logo.png/80px-LOLCode_logo.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/215px-Scratchlogo.svg.png">
     </td>
     </tr>
  </table>
