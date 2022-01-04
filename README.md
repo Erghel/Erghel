@@ -12,7 +12,7 @@ Russia will be fine.
     <img src="https://cdn.iconscout.com/icon/free/png-64/css3-8-1175200.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/ruby-226055.png">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/python-3629591-3032289.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png">
     <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png">
