@@ -3,7 +3,7 @@
 My nickname is **Erghel** and I want to become a **DevOps Engineer** and **Cyber Security Specialist**.
 
 ## Projects:
-   **[OctoPass](https://github.com/Erghel/OctoPass)** - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), поэтому ознакомьтесь с описанием в репозитории.
+   **[OctoPass](https://github.com/Erghel/OctoPass)** - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), в будущем будет развиваться, как расширение для браузера.
    
    **[Esoteric "Hello World"](https://github.com/Erghel/Esoteric-HelloWorld)** - Проект для души, где я буду собирать код "Hello World" на интересных мне эзотерических языках программирования.
  
