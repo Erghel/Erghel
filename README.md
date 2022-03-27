@@ -5,7 +5,7 @@ My nickname is **Erghel** and I want to become a **DevOps Engineer** and **Cyber
 ## Projects:
    [**OctoPass**](https://github.com/Erghel/OctoPass) - Первый серьёзный проект. Генерирует сложные пароли, для регистрации на разных сайтах (пороль может не везде поддерживаться), в будущем будет развиваться, как расширение для браузера.
 
-   [**I Love Tor**](https://github.com/Erghel/I-love-Tor) - Расширение позволяющее искать мосты для Tor прямо через расширение (с помощью сайта, созданного [@ValdikSS](https://github.com/ValdikSS)).
+   [**BridgeMeTheTor**](https://github.com/Erghel/I-love-Tor) (**Archived**) - Расширение позволяющее искать мосты для Tor прямо через расширение (с помощью сайта, созданного [**@ValdikSS**](https://github.com/ValdikSS)).
    
    [**Answerius**](https://github.com/Erghel/Answerius) - Расширение для браузера, которое позволит выбрать один из анонимных поисковиков для запроса.
 
