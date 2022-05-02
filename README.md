@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My nickname is **Erghel** and I want to become a **DevOps Engineer** and **Cyber Security Specialist**.
+My nickname is **Erghel** and I want to become a **Frontend Developer** and **Cyber Security Specialist**.
 
 ## Projects:
    [**OctoPass**](https://github.com/Erghel/OctoPass) (**Заморожен**) - Генерирует сложные пароли для регистрации на разных сайтах.
