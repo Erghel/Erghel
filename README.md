@@ -13,5 +13,7 @@ My nickname is **Erghel** and I want to become a **Frontend Developer** and **Cy
    
 ## Articles:
    [**Анонимно, пожалуйста**](https://habr.com/ru/post/661857/) - статья про поисковики, которые говорят, что они анонимны. 
+   
+   [**manifest.json подводные камни**](https://habr.com/ru/post/664346/) - статья про опасность непроверенных/новых расширений. 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Erghel&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erghel&layout=compact&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
