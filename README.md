@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My nickname is **Erghel** and I want to become a **Frontend Developer** and **Cyber Security Specialist**.
+My nickname is **Erghel** - I am a **Web & Browser extension developer**. In the future I want to become a **specialist in information security of web applications**.
 
 ## Projects:
-   [**Privacy Search Companion**](https://github.com/Erghel/Answerius) ([**Mozilla Addon**](https://addons.mozilla.org/ru/firefox/addon/privacysearch-/)) - Расширение для браузера, которое позволит выбрать один из анонимных поисковиков для запроса.
+   [**Privacy Search Companion**](https://github.com/Erghel/Answerius) ([**Mozilla Addon**](https://addons.mozilla.org/ru/firefox/addon/privacysearch-/)) - A browser extension that allows you to choose one of the anonymous search engines for your query.
    
-   [**Pale RKN**](https://github.com/Erghel/PaleRKN) - Расширение для браузера, которое убирает надоедливые плашки от Роскомнадзора. 
+   [**Pale RKN**](https://github.com/Erghel/PaleRKN) - A browser extension that removes annoying plaques from Roskomnadzor. 
