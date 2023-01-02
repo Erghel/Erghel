@@ -1,6 +1,7 @@
 # Hi there 👋
 
 My nickname is **Erghel** - I'm a **Browser Extensions Developer** (sometimes a _Manual Tester and Frontend Developer_). 
+
 I like to write scripts in **JScript**, **VBScript** and **PHP**.
 
 ## Projects:
