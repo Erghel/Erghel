@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My nickname is **Erghel** - I'm a ex-**Browser Extensions Developer** (had experience in _Manual Testing_ and _Frontend Developing_). 
+My nickname is **Erghel** - I'm a ex-**Browser Extensions Developer** (also had experience in _Manual Testing_ and _Frontend Developing_). 
 
 I like to write scripts/code in **JScript**, **VBScript**, **Python**, **Ruby**, **PHP** and **Perl** (a little bit **Raku** too).
 
