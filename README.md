@@ -5,5 +5,5 @@ My nickname is **Erghel** - I'm a ex-**Browser Extensions Developer** (also had 
 I love to write scripts/code in different scripting and not so popular programming languages.
 
 ## Projects:
-- [[**Privacy Search Companion**](https://github.com/Erghel/Privacy-Search-Companion) | [**Mozilla Addon Page**](https://addons.mozilla.org/en-US/firefox/addon/privacy-companion/)] - A browser extension that allows you to choose one of the anonymous search engines for your query.
+- [[**SearXNG Web Extension**](https://github.com/Erghel/SearXNG-Web-Extension) | [**Mozilla Addon Page**](https://addons.mozilla.org/en-US/firefox/addon/searxng-search/)] - A browser extension that will change your primary search engine to SearXNG.
    
